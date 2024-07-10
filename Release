@@ -1,0 +1,8 @@
+Origin: iOS-Legacy Repo
+Label: iOS-Legacy Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iOS-Legacy - a cydia repo which contains a wide variety of old, paid and free Tweaks. Clarify that because the Cydia store has closed, no Tweak will have any cost.
